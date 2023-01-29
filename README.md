@@ -7,4 +7,3 @@
 4) 🔗 Redes sociais: 🐦@adrianopacheco / 📸 @adriino_
 5) 📽️ Sou otaku e meu anime preferido é o do Pirata que estica
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
